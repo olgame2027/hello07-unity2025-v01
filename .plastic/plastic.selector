@@ -1,0 +1,4 @@
+repository "for_mary_3d_v03_built_in/for_mary_3d_v03_built_in@10170530705097@cloud"
+  path "/"
+    br "/main"
+    co "/main"
